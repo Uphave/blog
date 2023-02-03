@@ -1,51 +1,258 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+<html lang="ro" class="uphave">
 
-    {% include meta.html %}
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.png" />
+  <link
+    href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;display=swap"
+    rel="stylesheet" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+    rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css" />
+  <link rel="stylesheet" type="text/css" href="/assets/css/animate.css" />
+  <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css" />
+  <link rel="stylesheet" type="text/css" href="/assets/css/chosen.min.css" />
+  <link rel="stylesheet" type="text/css" href="/assets/css/font-awesome.min.css" />
+  <link rel="stylesheet" type="text/css" href="/assets/css/jquery.scrollbar.css" />
+  <link rel="stylesheet" type="text/css" href="/assets/css/lightbox.min.css" />
+  <link rel="stylesheet" type="text/css" href="/assets/css/magnific-popup.css" />
+  <link rel="stylesheet" type="text/css" href="/assets/css/slick.min.css" />
+  <link rel="stylesheet" type="text/css" href="/assets/fonts/flaticon.css" />
+  <link rel="stylesheet" type="text/css" href="/assets/css/megamenu.css" />
+  <link rel="stylesheet" type="text/css" href="/assets/css/dreaming-attribute.css" />
+  <link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
+  <title>Uphave</title>
+</head>
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
-
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
+<body>
+  <header id="header" class="header style-02 header-dark">
+    <div class="header-wrap-stick">
+      <div class="header-position">
+        <div class="header-middle">
+          <div class="akasha-menu-wapper"></div>
+          <div class="header-middle-inner">
+            <div class="header-search-menu">
+              <div class="block-menu-bar">
+                <a class="menu-bar menu-toggle" href="#">
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                </a>
+              </div>
+            </div>
+            <div class="header-logo-nav">
+              <div class="header-logo">
+                <a href="index.html">
+                  <img alt="Uphave" src="/assets/images/logo.svg" class="logo" />
+                </a>
+              </div>
+              <div class="box-header-nav menu-nocenter">
+                <ul id="menu-primary-menu" class="clone-main-menu akasha-clone-mobile-menu akasha-nav main-menu">
+                  <li id="menu-item-230"
+                    class="menu-item menu-item-type-post_type menu-item-object-megamenu menu-item-230 parent parent-megamenu item-megamenu menu-item-has-children">
+                    <a class="akasha-menu-item-title menu-item-active" title="Acasă" href="/index.html">Acasă</a>
+                  </li>
+                  <li id="menu-item-228"
+                    class="menu-item menu-item-type-post_type menu-item-object-megamenu menu-item-228 parent parent-megamenu item-megamenu menu-item-has-children">
+                    <a class="akasha-menu-item-title" title="Despre noi" href="/about-us.html">Despre noi</a>
+                  </li>
+                  <li id="menu-item-229"
+                    class="menu-item menu-item-type-post_type menu-item-object-megamenu menu-item-229 parent parent-megamenu item-megamenu menu-item-has-children">
+                    <a class="akasha-menu-item-title" title="Cum funcționează" href="/how-it-works.html">Cum
+                      funcționează</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
           </div>
-
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
+        </div>
       </div>
     </div>
-
-    <div id="main" role="main" class="container">
+    <div class="header-mobile">
+      <div class="header-mobile-left">
+        <div class="block-menu-bar">
+          <a class="menu-bar menu-toggle" href="#">
+            <span></span>
+            <span></span>
+            <span></span>
+          </a>
+        </div>
+      </div>
+  </header>
+  <!-- <div class="slide-home-01">
+    <div class="response-product product-list-owl owl-slick equal-container better-height"
+      data-slick='{"arrows":false,"slidesMargin":0,"dots":true,"infinite":false,"speed":300,"slidesToShow":1,"rows":1, "autoplay": false}'
+      data-responsive='[{"breakpoint":480,"settings":{"slidesToShow":1,"slidesMargin":"0"}},{"breakpoint":768,"settings":{"slidesToShow":1,"slidesMargin":"0"}},{"breakpoint":992,"settings":{"slidesToShow":1,"slidesMargin":"0"}},{"breakpoint":1200,"settings":{"slidesToShow":1,"slidesMargin":"0"}},{"breakpoint":1500,"settings":{"slidesToShow":1,"slidesMargin":"0"}}]'>
+      <div class="slide-wrap slide-wrap-1">
+        <div class="container">
+          <div class="slider-inner">
+            <div class="slider-inner-left">
+              <img src="/assets/images/carousel-1.png" />
+            </div>
+            <div class="slider-inner-right">
+              <img class="store-logo" src="/assets/images/store-logo-1.svg" />
+              <div class="hero-button">
+                  <a href="#">Vezi produsele</a>
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="slide-wrap slide-wrap-1" style="display: none">
+        <div class="container">
+          <div class="slider-inner">
+            <div class="slider-inner-left">
+              <img src="/assets/images/carousel-2.png" />
+            </div>
+            <div class="slider-inner-right">
+              <img class="store-logo" src="/assets/images/store-logo-2.svg" />
+              <div class="hero-button">
+                <a href="#">Vezi produsele</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="slide-wrap slide-wrap-1" style="display: none">
+        <div class="container">
+          <div class="slider-inner">
+            <div class="slider-inner-left">
+              <img height="463" src="/assets/images/carousel-3.png" />
+            </div>
+            <div class="slider-inner-right">
+              <img class="store-logo" src="/assets/images/store-logo-3.svg" />
+              <div class="hero-button">
+                  <a href="#">Vezi produsele</a>
+                </div> 
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> -->
+  <div class="main-container shop-page left-sidebar">
+    <div class="container">
       {{ content }}
     </div>
-
-    <div class="wrapper-footer">
+  </div>
+  </div>
+  <footer id="footer" class="footer style-01">
+    <div class="section-001 section-009">
       <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
+        <div class="akasha-newsletter style-01">
+          <div class="newsletter-inner">
+            <div class="newsletter-info">
+              <div class="newsletter-wrap">
+                <h4 class="title">Sustenabil e noul chic.</h4>
+                <h5 class="subtitle">
+                  Vrei acces la ofertele unice de lansare? Abonează-te și vei
+                  primi cele mai importante notificări.
+                </h5>
+              </div>
+            </div>
+            <div>
+              <script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/embed/v2.js"></script>
+              <div class="subscribe-button">
+                <script>
+                  hbspt.forms.create({
+                    region: "eu1",
+                    portalId: "26839768",
+                    formId: "9ca81dba-c8c4-4e5c-a059-0027f534b2a3",
+                  });
+                </script>
+              </div>
+            </div>
+            <p class="desc">
+              Fashion Vintage / Second-Hand 24 din 7, pe o singură platformă!
+            </p>
+          </div>
+        </div>
       </div>
     </div>
+    <div class="section-010">
+      <div class="container">
+        <div class="footer-top">
+          <div class="contact-section">
+            <div>
+              <p>Contact: <span>MAPSTORE CONSULTING SRL</span></p>
+              <p>Nr.Reg.Com: <span>J40/16537/23.09.2021</span></p>
+              <p>CIF:<span>44957485</span></p>
+            </div>
+            <div>
+              <p>
+                Adresa:
+                <span>Intrarea Portocalelor nr. 2, Sect. 6, București</span>
+              </p>
+              <p>E-mail: <span>office@uphave.eu</span></p>
+              <p>Telefon: <span>+4 0748 338 959</span></p>
+            </div>
+          </div>
+          <div class="anpc-section">
+            <a href="https://anpc.ro/ce-este-sal/" target="_blank"><img src="/assets/images/anpc.png" /></a>
+            <a href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=RO"
+              target="_blank"><img src="/assets/images/anpc-sol.png" /></a>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-6">
+            <p>
+              © Copyright 2022 <a href="#">Uphave</a>.Toate drepturile
+              rezervate.
+            </p>
+          </div>
+          <div class="col-lg-6 footer-right">
+            <div class="conditions">
+              <a>Termeni și condiții</a>
+              <a href="https://26839768.fs1.hubspotusercontent-eu1.net/hubfs/26839768/Informa%C5%A3ii%20privind%20procesarea%20datelor%20cu%20caracter%20personal%20Uphave%20.pdf"
+                target="_blank">Politică de confidențialitate</a>
+            </div>
+            <div class="akasha-socials style-01">
+              <div class="content-socials">
+                <ul class="socials-list">
+                  <li>
+                    <a href="https://www.facebook.com/uphave.eu" target="_blank">
+                      <i class="fa fa-facebook"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://instagram.com/uphave.eu?igshid=YmMyMTA2M2Y=" target="_blank">
+                      <i class="fa fa-instagram"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://www.linkedin.com/company/uphave/" target="_blank">
+                      <i class="fa fa-linkedin"></i>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <a href="#" class="backtotop">
+    <i class="fa fa-angle-up"></i>
+  </a>
+  <script src="/assets/js/jquery-1.12.4.min.js"></script>
+  <script src="/assets/js/bootstrap.min.js"></script>
+  <script src="/assets/js/chosen.min.js"></script>
+  <script src="/assets/js/countdown.min.js"></script>
+  <script src="/assets/js/jquery.scrollbar.min.js"></script>
+  <script src="/assets/js/lightbox.min.js"></script>
+  <script src="/assets/js/magnific-popup.min.js"></script>
+  <script src="/assets/js/slick.js"></script>
+  <script src="/assets/js/jquery.zoom.min.js"></script>
+  <script src="/assets/js/threesixty.min.js"></script>
+  <script src="/assets/js/jquery-ui.min.js"></script>
+  <script src="/assets/js/mobilemenu.js"></script>
+  <script src="/assets/js/functions.js"></script>
 
-    {% include analytics.html %}
-  </body>
+  <div role="log" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div>
+</body>
+
 </html>
