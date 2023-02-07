@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Prima postare !
+author: Alex
 ---
 
 Prima postare pe blog in pagina
