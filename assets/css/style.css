@@ -16083,6 +16083,10 @@ body .akasha-mapper .text__area {
 
 /* General */
 
+html, body {
+  height: 100%;
+}
+
 .uphave a:hover {
   color: #1fa76e;
   cursor: pointer;
@@ -16441,11 +16445,22 @@ button.tertiary:hover {
 /* Footer */
 
 .uphave footer .section-009 {
-  background-color: #d9f2e8;
+  background-color: #C1DEC5;
 }
 
 .uphave footer .section-001 {
-  padding: 80px;
+  padding: 0;
+}
+
+.uphave footer .section-001 .container {
+  background-image: url("../images/lips.png");
+  background-repeat: no-repeat;
+  background-position: 100%;
+  background-size: 400px;
+}
+
+.uphave .akasha-newsletter.style-01 {
+  padding: 40px 0 33px;
 }
 
 .uphave .footer-right {
@@ -16511,8 +16526,8 @@ button.tertiary:hover {
 }
 
 @media (max-width: 1199px) {
-  .uphave footer .section-001 {
-    padding: 55px;
+  .uphave .akasha-newsletter.style-01 {
+    padding: 55px 0 48px;
   }
   
   .uphave footer .section-010 .row{ 
@@ -16527,8 +16542,8 @@ button.tertiary:hover {
     padding-top: 20px;
   }
 
-  .uphave footer .section-001 {
-    padding: 45px;
+  .uphave .akasha-newsletter.style-01 {
+    padding: 45px 0 38px;
   }
 
   .footer-top {
@@ -16577,8 +16592,8 @@ button.tertiary:hover {
     align-items: center;
   }
 
-  .uphave footer .section-001 {
-    padding: 30px 0;
+  .uphave .akasha-newsletter.style-01 {
+    padding: 30px 0 20px;
   }
 
   .uphave .section-010 p {
@@ -16592,11 +16607,17 @@ button.tertiary:hover {
 
 }
 
+.uphave .akasha-newsletter.style-01 .newsletter-inner{
+  text-align: left;
+}
+
 .uphave .akasha-newsletter.style-01 .title {
-  margin-bottom: 16px;
+  margin-bottom: 10px;
   font-size: 26px;
   font-family: "Playfair Display";
   color: #1f1f1f;
+  text-transform: initial;
+  letter-spacing: 0.2px;
 }
 
 .uphave .akasha-newsletter.style-01 .subtitle {
@@ -16609,12 +16630,26 @@ button.tertiary:hover {
 }
 
 .uphave .akasha-newsletter.style-01 .desc {
-  margin-top: 20px;
-  margin-bottom: 0;
+  margin-top: 10px;
   max-width: 100%;
-  color: #679984;
-  font-size: 14px;
-  line-height: 1.4;
+  color: #1f1f1f;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: 0;
+}
+
+.uphave .subscribe-left p {
+  margin: 0;
+  text-align:left;
+  font-weight: 500;
+  color: #444444;
+}
+
+@media (max-width: 576px){
+  .subscribe-button iframe{
+    width: 190% !important; 
+    max-width: unset !important; 
+  }
 }
 
 .subscribe-button .hs-email {
@@ -18073,6 +18108,137 @@ a:active {
   padding-left: 0;
 }
 
+/* About us */
+
+.about-us-section {
+  display: flex;
+  align-items: center;
+  gap: 64px;
+}
+
+.about-us-section > div{
+  width: 100%;
+}
+
+.how-it-works {
+  margin-top: 32px;
+}
+
+.about-us-section .title {
+  color: #606060;
+  font-size: 28px;
+  font-weight: 500;
+  padding-left: 24px;
+  position: relative;
+  margin-bottom: 30px;
+  margin-top: 0;
+  border-left: 2px solid #1fa76e;
+  font-family: "Playfair Display";
+}
+
+.about-us-container {
+  padding: 65px 0 60px;
+}
+
+@media (max-width: 1200px) {
+  .about-us-section img{
+    width: 400px;
+  }
+}
+
+@media (max-width: 900px) {
+  .middle-section > div{
+    order: 1;
+  }
+
+  .about-us-section p{
+    margin-bottom: 10px;
+  }
+
+  .about-us-section img{
+    height: 336px;
+  }
+
+  .about-us-section{
+    flex-direction: column;
+    gap: 34px;
+  }
+
+  .about-us-section:not(:last-child){
+    margin-bottom: 54px;
+  }
+
+  .how-it-works {
+    margin-top: 0;
+  }
+
+  .about-us-section .title {
+    padding-left: 16px;
+  }
+}
+
+
+/* Parteners */
+
+.uphave .owl-slick .slick-arrow:hover {
+  color: #1fa76e;
+}
+
+.uphave .effect {
+  width: 150px;
+  height: 84px;
+}
+
+.uphave .slick-slide img {
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+}
+
+/* Team */
+.thumb-avatar a{
+  height: 370px;
+  width: 370px;
+  overflow: hidden;
+}
+
+.uphave .akasha-team .name {
+  font-family: "Playfair Display";
+}
+
+.uphave .akasha-team .thumb-avatar img {
+  object-fit: cover;
+  object-position: top center;
+}
+
+.team-slide .owl-slick .slick-arrow {
+  top: 35%;
+}
+
+.uphave .akasha-team .thumb-avatar > a::before {
+  background-color: transparent;
+}
+
+.thumb-avatar > a:hover {
+  cursor: default;
+}
+
+@media (max-width: 1024px){
+  .akasha-team .thumb-avatar {
+      margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 1200px){
+  .uphave .akasha-team .thumb-avatar > a {
+      margin: 0 auto;
+  }
+}
+
+/* .akasha-team.style-01.slick-slide.slick-active {
+  width: 370px!important;
+} */
+
 /* How it works */
 
 .how-it-works.main-container {
@@ -18104,4 +18270,50 @@ blockquote {
 
 article a {
   color: #1fa76e;
+}
+
+.uphave .post-standard .post-title {
+  margin-bottom: 5px;
+}
+
+h1 + .post-meta {
+  margin-top: -10px;
+}
+
+.uphave .main-blog {
+  padding-bottom: 40px;
+  min-height: calc(100% - 575px);
+}
+
+.blog-pagination {
+  margin-top: 55px;
+}
+
+.post-meta span{
+ margin-left: 3px;
+ color: #000;
+}
+
+.post-meta > div {
+  display: inline-block;
+  position: relative;
+}
+
+.post-meta > div:not(:last-child)::after {
+  content: "";
+  border-left: 1px solid #b6bfca;
+  position: absolute;
+  top: 3px;
+  right: 0;
+  -webkit-transform: rotate(30deg);
+  -moz-transform: rotate(30deg);
+  -ms-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+  transform: rotate(30deg);
+  height: 18px;
+}
+
+.post-meta > div:not(:last-child) {
+  padding-right: 17px;
+  margin-right: 14px;
 }
