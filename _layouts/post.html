@@ -5,15 +5,11 @@ layout: default
 <article class="post post-standard post-item">
   <h1>{{ page.title }}</h1>
   <div class="post-meta">
-    <div class="date">Written on {{ page.date | date: "%B %e, %Y" }}</div>
-    <div class="post-author"> by {{ page.author }}</div>
+    <div class="date">Scris pe: <span>{{ page.date | date: "%d-%m-%Y" }}</span> </div>
+    <div class="post-author">de:<span> {{ page.author }}</span></div>
   </div>
   <div class="entry">
     {{ content }}
-  </div>
-
-  <div class="date">
-    Scris pe {{ page.date | date: "%d-%m-%Y" }} de {{ page.author }}
   </div>
 
   {% include disqus.html %}
