@@ -913,6 +913,11 @@ a img.aligncenter {
   padding: 10px 4px 5px;
   margin: 0 !important;
 }
+
+.hbspt-form {
+  overflow: hidden;
+}
+
 iframe {
   max-width: 100% !important;
 }
@@ -18282,6 +18287,7 @@ h1 + .post-meta {
 
 .uphave .main-blog {
   padding-bottom: 40px;
+  padding-top: 40px;
   min-height: calc(100% - 575px);
 }
 
