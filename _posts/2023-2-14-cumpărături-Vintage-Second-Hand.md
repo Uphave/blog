@@ -2,6 +2,7 @@
 layout: post
 title: Ascensiunea comportamentelor sustenabile în fashion
 author: Diana Ceresmis
+excerpt_separator: <!--more-->
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/Cool Fashion Uphave2.jpg)
@@ -9,6 +10,8 @@ author: Diana Ceresmis
 Industria fast fashion este una dintre cele mai poluante industrii din lume, hainele fiind adesea produse în țările în curs de dezvoltare, unde reglementările de mediu sunt aproape inexistente. 
 Procesul de producție este intensiv în resurse, consumă cantități mari de apă și energie și produce cantități mari de gaze cu efect de seră. 
 În plus, îmbrăcămintea fast fashion este adesea făcută din materiale sintetice care nu se biodegradează, ceea ce duce la acumularea lor în gropile de gunoi.
+
+<!--more-->
 
 Ascensiunea conceptului de sustenabilitate în fashion este un subiect care câștigă din ce în ce mai multă atenție în ultimii ani. 
 Îmbrăcămintea Vintage și Second-Hand este o alternativă ecologică la fast fashion. Când cumpărăm îmbrăcăminte Vintage și Second-Hand, dăm viață nouă unui articol de îmbrăcăminte existent, 
