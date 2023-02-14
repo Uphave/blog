@@ -4,6 +4,8 @@ title: Ascensiunea comportamentelor sustenabile în fashion
 author: Diana Ceresmis
 ---
 
+![_config.yml]({{ site.baseurl }}/images/Cool Fashion Uphave2.jpg)
+
 Industria fast fashion este una dintre cele mai poluante industrii din lume, hainele fiind adesea produse în țările în curs de dezvoltare, unde reglementările de mediu sunt aproape inexistente. 
 Procesul de producție este intensiv în resurse, consumă cantități mari de apă și energie și produce cantități mari de gaze cu efect de seră. 
 În plus, îmbrăcămintea fast fashion este adesea făcută din materiale sintetice care nu se biodegradează, ceea ce duce la acumularea lor în gropile de gunoi.
@@ -20,7 +22,3 @@ Multe magazine de epocă și second hand donează o parte din încasările lor u
 Avem atâtea motive pentru care sa o facem. Orice alegem, e o alegere personală și orientată către comunitate. Pe măsură ce devenim mai conștienți de impactul omului asupra mediului, 
 ne putem aștepta să vedem o creștere continuă a popularității îmbrăcămintei vintage și second-hand. 
 Uphave este o platformă care facilitează acest tip de cumpărături, prin reunirea magazinelor vintage și second-hand locale, momentan, cu noi, iubitorii de fashion neconvențional.
-
-
-![_config.yml]({{ site.baseurl }}/images/Cool Fashion Uphave.jpeg)
-
