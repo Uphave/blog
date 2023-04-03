@@ -1,6 +1,6 @@
 ---
 layout: post
-title: De ce Suedia e o țară marură pentru Vintage, Second-Hand Fashion
+title: De ce Suedia e o țară matură pentru Vintage, Second-Hand Fashion
 author: Diana Ceres
 ---
 ![_config.yml]({{ site.baseurl }}/images/Sweden mall.jpg)
