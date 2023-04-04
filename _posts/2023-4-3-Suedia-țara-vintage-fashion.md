@@ -4,6 +4,7 @@ title: De ce Suedia e o țară matură pentru Vintage, Second-Hand Fashion
 author: Diana Ceres
 ---
 ![_config.yml]({{ site.baseurl }}/images/Sweden mall.jpg)
+
 Suedia a devenit o piață importantă pentru fashion vintage și second-hand în ultimii ani, cu un număr din ce în ce mai mare de consumatori care optează pentru alegeri sustenabile și etice în materie de modă. Această tendință este evidentă în piețele de îmbrăcăminte vintage și second-hand din marile orașe suedeze, precum Stockholm și Gothenburg, precum și în platformele online precum Tradera și Blocket.
 Vezi aici cum ar fi să ai un mall pentru articole Vintage, Second-Hand în oraș https://www.huffpost.com/entry/recycled-mall-sweden-retuna_n_5bfd0762e4b0eb6d931346b3 
 
