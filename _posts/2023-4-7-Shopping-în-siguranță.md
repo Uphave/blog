@@ -15,6 +15,6 @@ Cu toate acestea, mulți oameni aleg să cumpere astfel de haine de pe platforme
 În cele din urmă, achiziționarea hainelor vintage și second hand de pe o platformă legitimă poate fi și o modalitate excelentă de a contribui la un stil de viață mai sustenabil. [Uphave](https://uphave.eu/) contribuie la reducerea cantității de deșeuri generate de industria textilă și la reducerea impactului acesteia asupra mediului.
 
 În concluzie, cumpărarea de haine vintage și second hand de pe o platformă legitimă este, câteodată, o alegere mai bună decât achiziționarea acestora de la vânzătorii particulari de pe rețelele sociale. Magazinele specializate în vânzarea de haine second hand și vintage sunt mai de încredere și oferă o protecție mai mare în cazul unor probleme, precum și o garanție a autenticității și calității produselor.
-Care este experiența ta de cumpărare? Lasă-ne părerea ta [aici](https://1yyzy6c73e8.typeform.com/to/tf9o5k54#hubspot_utk=xxxxx&hubspot_page_name=xxxxx&hubspot_page_url=xxxxx).
+Care este experiența ta de cumpărare? Lasă-ne părerea ta [aici](https://1yyzy6c73e8.typeform.com/to/jTJ7sMTS#hubspot_utk=xxxxx&hubspot_page_name=xxxxx&hubspot_page_url=xxxxx)
 
 
