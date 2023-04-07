@@ -3,7 +3,7 @@ layout: post
 title: Shopping din magazine online vs grupuri de rețele sociale
 author: Diana Ceres
 ---
-![_config.yml]({{ site.baseurl }}/images/Hat Uphave pic.jpeg)
+![_config.yml]({{ site.baseurl }}/images/Hat Uphave.png)
 În ultimii ani, există o tendință tot mai mare către achiziționarea hainelor vintage și second hand. Acest lucru este datorat atât creșterii interesului pentru moda sustenabilă, cât și dorinței de a găsi piese unice și de calitate superioară la prețuri accesibile. 
 Cu toate acestea, mulți oameni aleg să cumpere astfel de haine de pe platforme nesigure, cum ar fi grupurile de Facebook sau conturile de Instagram. Hai să analizăm împreună de ce este mai bine să cumperi haine vintage și second hand de pe o platformă legitimă.
 
