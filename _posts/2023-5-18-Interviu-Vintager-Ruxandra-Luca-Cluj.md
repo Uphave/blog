@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 ---
 ![_config.yml]({{ site.baseurl }}/images/Vintager.jpg)
 
-Cândva, am fost curioasă cine sunt curajoșii care deschid magazine de <strong>Fashion Vintage</strong> și quality <strong>Second-Hand</strong> în România. Știm cu toții cum a început piața de <strong>preowned fashion</strong>la noi, cu marfa de slabă calitate, dar știți cât de frumos s-a dezvoltat și cum arată acum? Și mai ales, cine sunt cei care o ajută să crească frumos!
+Cândva, am fost curioasă cine sunt curajoșii care deschid magazine de <strong>Fashion Vintage</strong> și quality <strong>Second-Hand</strong> în România. Știm cu toții cum a început piața de <strong>preowned fashion</strong> la noi, cu marfă de slabă calitate, dar știți cât de frumos s-a dezvoltat între timp și cum arată acum? Și mai ales, cine sunt cei care o ajută să crească frumos!
 Haideți să îi cunoaștem, împreună, pe câțiva dintre ei. Deschidem seria de interviuri cu <strong>"Vintage Fashion Cool Owners"</strong>. 
 Iar azi stăm de vorbă cu [Vintager](https://uphave.eu/?merchant=Vintager), primul magazin fizic de Vintage Fashion din Cluj, mai exact stăm de vorbă cu <strong>co-fondatoarea Ruxandra Ioana Luca</strong>.
   
