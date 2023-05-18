@@ -40,4 +40,3 @@ Dacă treceți sau mergeți în Cluj, treceți pe la [Vintager](https://www.vint
 
 
 
-…………………………….
