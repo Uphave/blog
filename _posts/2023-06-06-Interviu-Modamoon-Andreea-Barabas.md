@@ -23,7 +23,7 @@ Odată cu dezvoltarea [MODAMOON](https://www.modamoon.ro/) am avut contact cu mu
 
 <em>Aveți articole super faine pe [MODAMOON](https://uphave.eu/?merchant=Modamoon), cum alegeți ce vreți să le oferi clienților?</em>
 
-După fiecare stoc vandut urmăream ce este de interes, până când am învățat să oferim ceea ce caută clienții. Accentul cade pe calitate, brand și articole premium. Pe scurt, haine care să fie purtate de mai multe ori dar starea lor să rămână la fel de bună.
+După fiecare stoc vandut urmăream ce este de interes, până când am învățat să oferim ceea ce caută clienții. Accentul cade pe <strong>calitate, brand și articole premium</strong>. Pe scurt, haine care să fie purtate de mai multe ori dar starea lor să rămână la fel de bună.
 Faptul că putem face selecție proprie din <strong>haine originale</strong> (haine colectate direct de la oameni) este un mare avantaj pentru că putem oferi exact hainele de care clienții au nevoie.
 
 <em>Ce crezi că îi face pe iubitorii de vintage să aleagă stilul acesta? O s[ o zic iar pe aia cu țările nordice, care au un nivel economic mult mai stabil și puternic ca noi, dar care aleg de bună voie acest stil. Probabil și pentru că au o cultură mai veche a stilului?</em>
