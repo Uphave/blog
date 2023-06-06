@@ -6,8 +6,8 @@ excerpt_separator: <!--more-->
 ---
 ![_config.yml]({{ site.baseurl }}/images/Modamoon.jpeg)
 
-Ce ne place la seria asta cu “Vintage Fashion Cool Owners”? Ne place să învățăm istoria fiecărui owner, care a fost motivația fiecăruia și provocările pe care le-au avut pe drum. 
-Andreea a avut încrederea că ideea ei de Shop Vintage Fashion Online, [MODAMOON](https://uphave.eu/?merchant=Modamoon), va atrage iubitorii de Vintage către ea. Cum crezi că e acum, după 5 ani?
+Ce ne place la seria asta cu “<strong>Vintage Fashion Cool Owners</strong>”? Ne place să învățăm istoria fiecărui owner, care a fost motivația fiecăruia și provocările pe care le-au avut pe drum. 
+Andreea a avut încrederea că ideea ei de <strong>Shop Vintage Fashion Online</strong>, [MODAMOON](https://uphave.eu/?merchant=Modamoon), va atrage iubitorii de <strong>Vintage</strong> către ea. Cum crezi că e acum, după 5 ani?
 
 <!--more-->
 
