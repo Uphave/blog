@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Modamoon, cinci ani de pasiune Vintage
-interview with: Andreea Barabas
+author: Diana Ceresmis, interviu cu Andreea Barabas
 excerpt_separator: <!--more-->
 ---
 ![_config.yml]({{ site.baseurl }}/images/Modamoon.jpeg)
