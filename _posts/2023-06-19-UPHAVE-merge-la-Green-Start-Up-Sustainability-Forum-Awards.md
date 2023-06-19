@@ -4,7 +4,7 @@ title: Green Start-Up Sustainability Forum & Awards: bune practici pentru o Rom�
 author: Green Start-up Editorial Team
 excerpt_separator: <!--more-->
 ---
-![_config.yml]({{ site.baseurl }}/images/GreenStartup.jpeg)
+![_config.yml]({{ site.baseurl }}/images/GreenStartup.jpg)
 
 Green Start-Up, publicație aflată în portofoliul InternetCorp destinată sustenabilității și dezvoltării durabile a afacerilor din România și Europa, organizează pe data de 29 iunie 2023 prima ediție a <strong>[Green Start-Up Sustainability Forum & Awards](https://green.start-up.ro/ro/green-start-up-sustainability-forum-awards-bune-practici-pentru-o-romanie-verde/)</strong>.
 
