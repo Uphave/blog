@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Green Start-Up Sustainability Forum & Awards: bune practici pentru o Românie verde
-author: [Green Start-up Editorial Team](https://green.start-up.ro/ro/autori/green-start-up-editorial-team/)
+author: Green Start-up Editorial Team
 excerpt_separator: <!--more-->
 ---
 ![_config.yml]({{ site.baseurl }}/images/GreenStartup.jpeg)
