@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Green StartUp Sustainability Forum & Awards: bune practici pentru o Românie verde
+title: Green StartUp Sustainability Forum & Awards, bune practici pentru o Românie verde
 author: Green Startup Editorial Team
 excerpt_separator: <!--more-->
 ---
