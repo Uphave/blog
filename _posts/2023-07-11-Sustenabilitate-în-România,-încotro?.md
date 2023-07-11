@@ -4,7 +4,7 @@ title: Sustenabilitate în România, încotro?
 author: Diana Ceresmis
 excerpt_separator: <!--more-->
 ---
-![_config.yml]({{ site.baseurl }}/images/GreenStartup.jpg)
+![_config.yml]({{ site.baseurl }}/images/Green Startup.jpg)
 
 
 <strong>[Green Start-Up](https://green.start-up.ro/ro/)</strong> au organizat primul lor eveniment dedicat <strong>sustenabilității în România</strong>. <strong>Uphave</strong> a participat ca invitat în panelul de <strong>Economie Circulară</strong>, alături de <strong>Alexandru Laibăr</strong>, director executiv la Coaliția pentru Economia Circulară <strong>CERC</strong>, <strong>Alex Burghelia</strong>, co-fondator <strong>Flip.ro</strong>, Directoarea de dezvoltare de la <strong>Ateliere fără Frontiere, Lorita Constantinescu</strong> și <strong>Roxana Puia</strong>, Directoare Marketing la <strong>Environ</strong>. Am vorbit despre <strong>misiunea Uphave</strong>, și a partenerilor săi, de a ține cât mai mult timp în circulație diferitele resurse pe care le avem la dispoziție. 
