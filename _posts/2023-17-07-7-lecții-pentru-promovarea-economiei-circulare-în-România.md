@@ -1,7 +1,7 @@
 ---
 layout: post
-title: M7 Lessons to Drive the Circular Economy @Green Start-Up’s Event
-author: Diana Ceresmis, interviu cu Andreea Barabas
+title: 7 lecții pentru promovarea economiei circulare în România @Green StartUp Event
+author: Diana Ceresmis, preluare articol scris de Antoanela Ioniță
 excerpt_separator: <!--more-->
 ---
 ![_config.yml]({{ site.baseurl }}/images/recursive.png)
