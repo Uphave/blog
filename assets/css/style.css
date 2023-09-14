@@ -2298,6 +2298,15 @@ td {
 /* ==========================================================================
 3.2 HEADER MENU
 ========================================================================== */
+#menu-item-227 .akasha-menu-item-title {
+  color: #CF355A;
+}
+.akasha-menu-item-title .emoji {
+  margin-right: 8px;
+  font-size: 16px;
+  color: #CF355A;
+}
+
 /*menu mobile*/
 .block-menu-bar {
   vertical-align: middle;
